@@ -1,0 +1,3 @@
+git clone https://github.com/pendo-io/professional-services-sandbox.git
+cd professional-services-sandbox
+npm install
